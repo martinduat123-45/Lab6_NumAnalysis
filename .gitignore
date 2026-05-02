@@ -1,0 +1,5 @@
+survey_results_public.csv
+venv/
+.venv/
+__pycache__/
+*.pyc
