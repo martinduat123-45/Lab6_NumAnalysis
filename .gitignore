@@ -1,4 +1,5 @@
 survey_results_public.csv
+*.csv
 venv/
 .venv/
 __pycache__/
